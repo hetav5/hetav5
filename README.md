@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hetav5
 - Hetav desai 
-- 👀 I’m interested in frontend and backend web dev,alos i have a keen interest in electronics sections 
+- 👀 I’m interested in frontend and backend web dev,also I have a keen interest in electronics sections 
 - 🌱 I’m currently learning computer science with specialization in Internet of things
 - 💞️ I’m looking to collaborate on website development
 - 📫 you can reach me on hetav050805@gmail.com
